@@ -10,6 +10,7 @@ public class Main {
       @Override
       public String meth(){
           return "Method is overridden in Extedend class B";
+
       }
   }
 
