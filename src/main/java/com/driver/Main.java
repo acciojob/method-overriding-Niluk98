@@ -5,12 +5,13 @@ public class Main {
       public String meth(){
           return "Invoking method from class A";
 
+
       }
   }
   public static  class B extends A{
       @Override
       public String meth(){
-          return "Method is overridden in Extedend class B";
+          return "Method is overridden in Extendend class B";
 
       }
   }
